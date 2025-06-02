@@ -7,3 +7,5 @@ require (
 	github.com/vishvananda/netns v0.0.4
 	golang.org/x/sys v0.5.0
 )
+
+replace github.com/lrh3321/ipset-go => github.com/ircop/ipset-go latest
